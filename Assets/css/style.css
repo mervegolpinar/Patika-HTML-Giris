@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(230, 224, 216);
+}
+.color{
+    color: brown;
+    padding-top: 20px;
+}
+.description{
+    margin-left: 500px;
+    width: 800px;
+}
+
+.description .float li{
+    float: left;
+    margin-right: 30px;
+    list-style-type: none;
+    color: brown;
+    padding-bottom: 25px;
+    
+}
+.description ul li, ol li{
+    padding-bottom: 5px;
+}
+.description span{
+    color: black;
+}
+.description .make{
+    font-size: 17px;
+    color: white;
+    background-color: brown;
+    width: 305px;
+    border-radius: 10px;
+    text-align: center;
+}
+.clear{
+    clear: both;
+    font-size: 17px;
+    color: white;
+    background-color: brown;
+    width: 96px;
+    border-radius: 10px;
+    text-align: center;
+}
+.description .fl-right{
+    float: right;
+}
